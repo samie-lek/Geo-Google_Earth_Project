@@ -1,11 +1,10 @@
 h1 {
   font-family: 'Great Vibes', cursive;
   font-weight: bold;
-  margin-top: 65px;
+  margin: 65px auto, 0px;
   font-size: 3.125rem;
   color: #66BFBF;
   display: block;
-  margin-bottom: 0px;
 }
 
 h3 {
